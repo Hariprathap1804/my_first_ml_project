@@ -1,4 +1,1 @@
 scikit-learn
-streamlit
-pickle
-numpy
